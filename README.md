@@ -39,6 +39,8 @@ Portable USB Charger
   - [Milestone 1 Report](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/ECEA%205715%20Milestone%201%20-%20Kai%20Tam.pdf)  
   - [Milestone 2 LTSpice](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Milestone1_Kai_Tam.zip) 
   - [Magnetics Design  Tables](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Magnetics%20Design%20%20Tables.pdf)  
+  - [Datasheet - MOSFET Infineon BSC010N04LSI](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/67967a664b43d9702dd0d2dd48674d54cd54751c/Infineon-BSC010N04LSIATMA1-datasheet.pdf)  
+  - [Datasheet - Current Sensor Maxim Integrated MAX4376TAUK+T](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/67967a664b43d9702dd0d2dd48674d54cd54751c/Maxim_Integrated-MAX4376TAUK%2BT-datasheet.pdf)  
   
   <p align="center">
   <img src="https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Milestone%201.JPG" width=80% height=80%>
