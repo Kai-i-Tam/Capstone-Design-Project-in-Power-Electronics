@@ -2,13 +2,12 @@
 Portable USB Charger
 
   <p align="center">
-    <img src="" width=80% height=80%>
+    <img src="https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Block%20Diagram.JPG" width=50% height=50%>
   </p>
   <p align="center">
-    Block Diagram
+  Figure 1. Block Diagram
   </p>  
-  
-  
+    
   ## Project Description
   Design and verify a bidirectional dc-dc converter and its controller, to interface a lithium-polymer battery to a USB device  
   - Supply 5 V at 2 A  
@@ -38,14 +37,22 @@ Portable USB Charger
   
   - [Milestone 1 Requirement](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Milestone1.pdf)
   - [Milestone 1 Report](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/ECEA%205715%20Milestone%201%20-%20Kai%20Tam.pdf)  
-  - [Magnetics Design  Tables]()  
+  - [Milestone 2 LTSpice](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Milestone1_Kai_Tam.zip) 
+  - [Magnetics Design  Tables](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Magnetics%20Design%20%20Tables.pdf)  
   
   <p align="center">
-  <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/L1%20BodePlot%2064%20Turns%20470uH%20d.JPG" width=80% height=80%>
+  <img src="https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Milestone%201.JPG" width=80% height=80%>
   </p>
   <p align="center">
-    Inductor Bode Plot
+    Figure 2. Power Stage
   </p>  
+  
+  <p align="center">
+  <img src="https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/516ab6e870aad4529bad6e42804565c08aec1efc/Milestone%201%20LT%20Spice.JPG" width=80% height=80%>
+  </p>
+  <p align="center">
+    Figure 3. Open Loop Power stage LT Spice
+  </p> 
   
   ___
   
@@ -67,7 +74,21 @@ Portable USB Charger
     
   - [Milestone 2 Requirement](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Milestone2.pdf)
   - [Milestone 2 Report](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/ECEA%205715%20Milestone%202%20-%20Kai%20Tam.pdf)  
-  - [Milestone 2 LTSpice]()  
+  - [Milestone 2 LTSpice](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/milestone2spice-KaiTam.zip)  
+  
+  <p align="center">
+    <img src="https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Milestone%202%20LT%20Spice.JPG" width=80% height=80%>
+  </p>
+  <p align="center">
+    Figure 4. H-Bridge Synchronous Buck Boost Average Model
+  </p>  
+  
+  <p align="center">
+  <img src="https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Milestone%202%20LT%20Spice%20Inner%20Current%20Loop%20Gain.JPG" width=80% height=80%>
+  </p>
+  <p align="center">
+    Figure 5. Inner Current Loop Gain
+  </p> 
   
   ___
   
@@ -81,31 +102,28 @@ Portable USB Charger
   >   - Operation at specified input/output voltages and currents
   >   - Closed-loop response to step change in load current
   >   - Closed-loop response to step change in load current
-
  
   - [Milestone 3 Requirement](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Milestone3.pdf)
   - [Milestonet 3 Report](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/ECEA%205715%20Milestone%203%20-%20Kai%20Tam.pdf)  
-  - [Milestone 3 LTSpice]()  
+  - [Milestone 3 LTSpice](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/milestone3spice%20Kai%20Tam.zip)  
   
   <p align="center">
-  <img src="https://github.com/Kai-i-Tam/Closed-Loop-Photovoltaic-SEPIC-Power-Supply-and-Battery-Charger/blob/main/Project%203%20LTSpice.JPG" width=80% height=80%>
+    <img src="https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Milestone%203%20LT%20Spice.JPG" width=80% height=80%>
   </p>
   <p align="center">
-    LTSpice .sch of Averaged SEPIC
+    Figure 6. Final Schematic
   </p>  
   
   ___
   
   ## Pros
-  Get the vertical design experience of Solar Power Converter.
-  One of the greatest adventage of this lab is scalable, we can later using this as template to build a larger Solar Power Chargers.
+    Reserved
   
   ## Cons
-  Never got a chance to actually design the PCB based on what I have done on the prototype.
+    Reserved
     
   ## Note to Future Development
-  If I will do the PCB of this projects, some of the measurement would be better because it would be less ESR and ESL. Switching Noise will be less and efficiency would definitly gone up.
-  It would be nice to sell it as a kit for future students.
+    Reserved
   
   ## Simulation Program
   - LTSpice
