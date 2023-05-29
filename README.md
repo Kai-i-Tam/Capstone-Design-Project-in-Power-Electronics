@@ -119,14 +119,15 @@ Portable USB Charger
   ___
   
   ## Pros
-    Reserved
+  This is a very good example template for fully vertical design of Power Electronic Circuit, work around given Specs and Restrictions.
+  Designing Topology, Component Reseach, Magnetic Designs, Modeling and Simulation. 
   
   ## Cons
-    Reserved
+  Everything is theorectical, the result is heavily depended on how well the math model is.
     
   ## Note to Future Development
-    Reserved
-  
+  It would be nice to design the PCBA one day and measure the real life performance and compare how close the simulation as.
+    
   ## Simulation Program
   - LTSpice
 
