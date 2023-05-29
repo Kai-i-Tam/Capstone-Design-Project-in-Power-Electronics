@@ -106,7 +106,7 @@ Portable USB Charger
   >   - Closed-loop response to step change in load current
  
   - [Milestone 3 Requirement](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Milestone3.pdf)
-  - [Milestonet 3 Report](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/ECEA%205715%20Milestone%203%20-%20Kai%20Tam.pdf)  
+  - [Milestone 3 Report](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/ECEA%205715%20Milestone%203%20-%20Kai%20Tam.pdf)  
   - [Milestone 3 LTSpice](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/milestone3spice%20Kai%20Tam.zip)  
   
   <p align="center">
