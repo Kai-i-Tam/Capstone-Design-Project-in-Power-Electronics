@@ -14,7 +14,7 @@ Portable USB Charger
   - Supply 20 V at 3 A  
   - Charge battery at 60 W from 20 V USB source  
   
-   [Project Description and Requirement]()  
+   [Project Description and Requirement](https://github.com/Kai-i-Tam/Capstone-Design-Project-in-Power-Electronics/blob/main/Project%20Description%20and%20Requirement.pdf)  
    
   ___  
 
